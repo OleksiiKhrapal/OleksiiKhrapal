@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OleksiiKhrapal)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Oleksii Khrapal profile views](https://u8views.com/api/v1/github/profiles/89572004/views/day-week-month-total-count.svg)](https://u8views.com/github/OleksiiKhrapal)
 <!--
 **OleksiiKhrapal/OleksiiKhrapal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
